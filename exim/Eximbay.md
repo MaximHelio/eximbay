@@ -4,9 +4,9 @@
 
 - 가입비O, 심사과정 필요, 안정적+한국법인 존재
 
-![image-20210902172258261](C:\Users\STSC\AppData\Roaming\Typora\typora-user-images\image-20210902172258261.png)
+![image-20210902172258261](결제 도입 흐름도.png)
 
-![image-20210902171304874](C:\Users\STSC\AppData\Roaming\Typora\typora-user-images\image-20210902171304874.png)
+![image-20210902171304874](심사 주기 및 과정.png)
 
 
 
@@ -134,7 +134,9 @@ E. Round Key : Eximbay 할당
 
 ## 7) 적용 화면 예시
 
-![image-20210902172932650](C:\Users\STSC\AppData\Roaming\Typora\typora-user-images\image-20210902172932650.png)
+![image-20210902172932650](적용화면 예시.JPG)
+
+![image-20210903005708932](Eximbay.assets/image-20210903005708932.png)
 
 # 3. Ref
 
