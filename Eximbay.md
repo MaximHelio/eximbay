@@ -2,6 +2,8 @@
 
 # 0. 서비스 신청
 
+- 가입비O, 심사과정 필요, 안정적+한국법인 존재
+
 ![image-20210902172258261](C:\Users\STSC\AppData\Roaming\Typora\typora-user-images\image-20210902172258261.png)
 
 ![image-20210902171304874](C:\Users\STSC\AppData\Roaming\Typora\typora-user-images\image-20210902171304874.png)
@@ -51,9 +53,24 @@
 ## 1) 개발환경
 
 - 개발 언어: jsp 또는 php, python으로 포팅 가능
+- framework: fast API
 
-- 테스트 진행 시 필요사항
+- 무료 모듈 테스트 진행
 
+> **[Eximbay 홈페이지](https://www.eximbay.com/index.do) > 기술지원자료실 > [결제연동]웹 결제모듈 v2.3 (rev 9)] 해외/한국결제**
+>
+> 국내_ 실제 카드로 테스트 가능
+>
+> 해외_ 지정한 카드로 제공
+>
+> **인증** 
+>
+> > VISA : 4000-0000-0000-0002 / 12월 33년 / CVC : 123
+> >
+> > MASTER : 5200-0000-0000-0007 / 12월 33년 / CVC : 123
+> >
+> > JCB : 3569-9900-1008-3722 / 12월 33년 / CVC : 123
+>
 > mid : 1849705C64
 >
 > secretkey : 289F40E6640124B2628640168C3C5464
@@ -107,13 +124,17 @@ E. Round Key : Eximbay 할당
 
 
 
-## 5) 화면설계
+## 5) 결제창 설계
 
-
+​	불필요
 
 ## 6) 방화벽 설정
 
 
+
+## 7) 적용 화면 예시
+
+![image-20210902172932650](C:\Users\STSC\AppData\Roaming\Typora\typora-user-images\image-20210902172932650.png)
 
 # 3. Ref
 
